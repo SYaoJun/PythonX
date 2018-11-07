@@ -1,3 +1,1 @@
-学习吴恩达老师的《机器学习》做的部分笔记
-目前正在学习神经网络
-有错误的地方欢迎指正
+## Meachine Learning Algorithms
